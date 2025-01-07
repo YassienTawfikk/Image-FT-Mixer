@@ -113,4 +113,4 @@ Below are illustrative screenshots of the application showcasing its key feature
 ### **Contact**
 For any inquiries or feedback, please contact:
 - **Name**: Madonna Mosaad
-- **Email**: Madonna.Mosaad03@eng-st.cu.edu.eg
+- **Email**: [Madonna.Mosaad03@eng-st.cu.edu.eg](mailto:Madonna.Mosaad03@eng-st.cu.edu.eg)
